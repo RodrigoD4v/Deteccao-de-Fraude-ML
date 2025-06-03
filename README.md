@@ -28,3 +28,30 @@ Foram implementados e avaliados os seguintes modelos de classificação:
 * Regressão Logística
 * Árvore de Decisão
 * XGBoost
+
+## 📈 Resultados
+
+### 🎯 Matrizes de Confusão
+
+<table>
+  <tr>
+    <td><strong>Logistic Regression</strong></td>
+    <td><strong>Random Forest</strong></td>
+    <td><strong>Decision Tree</strong></td>
+  </tr>
+  <tr>
+    <td><img src="img/confusion_logisticregression.png" width="300"/></td>
+    <td><img src="img/confusion_rf.png" width="300"/></td>
+    <td><img src="img/confusion_dt.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><strong>XGBoost</strong></td>
+    <td><strong>Ada Boost</strong></td>
+    <td><strong>Gradient Boosting</strong></td>
+  </tr>
+  <tr>
+    <td><img src="img/confusion_xgb.png" width="300"/></td>
+    <td><img src="img/confusion_ada.png" width="300"/></td>
+    <td><img src="img/confusion_gb.png" width="300"/></td>
+  </tr>
+</table>
