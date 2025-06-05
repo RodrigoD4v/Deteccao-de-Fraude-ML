@@ -66,3 +66,7 @@ Esta métrica indica o quão bem o modelo consegue separar transações fraudule
 ### Comparativo de AUC por Modelo
  <td><img src="img/AUC_comp.png" width="980"/></td>
 
+## 🧠 Conclusão
+
+Os modelos baseados em ensemble, como Random Forest e XGBoost, apresentaram melhor desempenho na detecção de fraudes, com AUC-ROC superiores a 0.95 e F1-Scores elevados.
+
