@@ -63,6 +63,6 @@ Foram implementados e avaliados os seguintes modelos de classificação:
 Esta métrica indica o quão bem o modelo consegue separar transações fraudulentas de legítimas, independentemente do limiar de decisão.
  <td><img src="img/curva_ROC.png" width="980"/></td>
 
-### 🔹 Comparativo de AUC por Modelo
+### Comparativo de AUC por Modelo
  <td><img src="img/AUC_comp.png" width="980"/></td>
 
