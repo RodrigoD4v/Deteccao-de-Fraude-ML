@@ -55,3 +55,7 @@ Foram implementados e avaliados os seguintes modelos de classificação:
     <td><img src="img/confusion_gb.png" width="300"/></td>
   </tr>
 </table>
+
+### Comparação de Acurácia
+  <td><img src="img/acuracia_comp.png" width="980"/></td>
+
