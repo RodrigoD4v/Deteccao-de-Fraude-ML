@@ -59,6 +59,9 @@ Foram implementados e avaliados os seguintes modelos de classificação:
 ### Comparação de Acurácia
   <td><img src="img/acuracia_comp.png" width="980"/></td>
 
+### Recall por Modelo e Classe
+<td><img src = "img/recallformodel_comp.png" width ="980"></td>
+
 ### AUC-ROC (Área sob a Curva ROC)
 Esta métrica indica o quão bem o modelo consegue separar transações fraudulentas de legítimas, independentemente do limiar de decisão.
  <td><img src="img/curva_ROC.png" width="980"/></td>
